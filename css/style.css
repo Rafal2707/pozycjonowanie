@@ -1,0 +1,98 @@
+.container {
+  text-align: center;
+  margin: 100px 400px;
+}
+
+.container-iner {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+}
+
+.container-iner2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  border: black solid;
+  background-color: white;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#black {
+  background-color: black;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#gray {
+  background-color: gray;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#pink-inner2 {
+  background-color: pink;
+}
+
+#gray-inner2 {
+  background-color: gray;
+}
+
+#purple-inner2 {
+  background-color: purple;
+}
+
+#green-inner2 {
+  background-color: green;
+}
+
+#red-inner2 {
+  background-color: red;
+}
+
+#blue-inner2 {
+  background-color: blue;
+}
+
+#orange-inner2 {
+  background-color: orange;
+}
+
+#yellow-inner2 {
+  background-color: yellow;
+}
+
+#black-inner2 {
+  background-color: black;
+}
